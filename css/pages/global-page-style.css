@@ -238,8 +238,8 @@ header {
 .nav-wrapper span {
     background: #009688;
     border: none;
-    height: 5px;
-    width: 100%;
+    height: 3px;
+    width: 80%;
     position: absolute;
     top: 0px;
     left: 0;
