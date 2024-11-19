@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="logo_only" data-name="logo only" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #009688;
+      }
+
+      .cls-2 {
+        fill: #37474f;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="109.65" y="115.65" width="492.7" height="492.7" rx="18" ry="18" transform="translate(359.02 -145.71) rotate(44.86)"/>
+  <path class="cls-1" d="M246.9,66.09h235.39v235.39c0,9.93-8.07,18-18,18H228.9V84.09c0-9.93,8.07-18,18-18Z" transform="translate(239.53 -194.7) rotate(44.86)"/>
+</svg>
